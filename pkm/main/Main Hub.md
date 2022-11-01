@@ -1,4 +1,4 @@
 # Engenharia de Dados
 
-[[hub|Governança de Dados]]
+[[Governança de dados - Hub|Governança de Dados]]
 
