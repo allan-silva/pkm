@@ -1,3 +1,7 @@
+---
+aliases: [Tipos de Dados(Estrutura)]
+---
+
 ## Classificação dos Tipos de dados - quanto a estrutura dos dados
 
  - **Estruturados**: registros tabulades, com formatos bem definidos, como o registro de empregados de uma em presa

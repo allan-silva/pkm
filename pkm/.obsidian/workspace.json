@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea8d39a23818250b",
+        "id": "51479991c621814c",
         "type": "tabs",
         "children": [
           {
-            "id": "a207f0d1bab1411a",
+            "id": "c14baf78c9f56e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-01.md",
+                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 362.5
   },
   "right": {
     "id": "4ab3792fa8f22b00",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-01.md",
+                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-01.md",
+                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-01.md"
+                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md"
               }
             }
           }
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "a207f0d1bab1411a",
+  "active": "2bfaa5cc754e79a8",
   "lastOpenFiles": [
+    "main/Governança de Dados/2. Literature/references.md",
+    "main/Governança de Dados/1. Fleeting/2022-11-01.md",
+    "main/Glossário.md",
     "main/Governança de Dados/Governança de dados - Hub.md",
     "main/Main Hub.md",
-    "main/Governança de Dados/2. Literature/Definição dos tipos de dados.md",
-    "main/Governança de Dados/2. Literature/Dados Informacionais.md",
     "main/Governança de Dados/1. Fleeting/GD-01-11-2022.md",
+    "main/Governança de Dados/3. Permanent/empty.md",
     "main/Governança de Dados/2. Literature/Classificação dos Tipos de dados - quanto a estrutura dos dados.md",
-    "main/Governança de Dados/2. Literature/references.md",
-    "main/Governança de Dados/1. Fleeting/test.md",
-    "0. Templates/Fleeting.md",
-    "0. Templates/Literature.md"
+    "main/Governança de Dados/2. Literature/Definição dos tipos de dados.md",
+    "main/Governança de Dados/2. Literature/Dados Informacionais.md"
   ]
 }

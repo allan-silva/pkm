@@ -1,3 +1,7 @@
+---
+aliases: [Tipos de Dados(Definição)]
+---
+
 ## Definição dos tipos de dados
 
 - **Dados Mestre**: dados que representam os pilares das empresas, sua fundação (foundational data). São com bas me dados mestre, que ocorrem as transções nas empresas. Ex: Cliente, Estado
