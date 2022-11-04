@@ -1,5 +1,4 @@
-# Qualidade de dados #GD 
-
+## Qualidade de dados
 São observadas as seguintes (mas não somente essas) dimensões ao avaliar a qualidades dos dados:
 - Completude
 - Unicidade (o mesmo CPF não pode pertencer a funcionários diferentes, p. ex.)
@@ -10,4 +9,9 @@ São observadas as seguintes (mas não somente essas) dimensões ao avaliar a qu
 - Cobertura (validos no território geográfico)
 - Precisão
 
-[[main/Governança de Dados/2. Literature/references#^db28ee]] - pag 22
+
+## References
+[[Livro - Governança de Dados - Práticas, conceitos e novos caminhos]] - pag 22
+
+### Tags
+**GAI**#GD 

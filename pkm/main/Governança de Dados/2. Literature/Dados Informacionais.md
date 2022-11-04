@@ -5,7 +5,7 @@ Dados estruturados por "dimensões", como tempo, local, espaço geográfico, etc
 
 ## References
 
-[[main/Governança de Dados/2. Literature/references#^db28ee]] - pag 6
+[[Livro - Governança de Dados - Práticas, conceitos e novos caminhos]] - pag 6
 
 ### Tags
 

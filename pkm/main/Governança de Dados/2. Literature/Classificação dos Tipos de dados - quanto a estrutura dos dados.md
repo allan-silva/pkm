@@ -10,7 +10,7 @@ aliases: [Tipos de Dados(Estrutura)]
 
 
 ## References
-[[main/Governança de Dados/2. Literature/references#Governança de Dados - Práticas, conceitos e novos caminhos]] - Pag. 19
+[[Livro - Governança de Dados - Práticas, conceitos e novos caminhos|Livro - Governança de Dados]] - Pag. 19
 
 ### Tags
 #GD 

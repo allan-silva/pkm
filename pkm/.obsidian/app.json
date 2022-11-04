@@ -2,5 +2,6 @@
   "attachmentFolderPath": "main/attachments",
   "showLineNumber": true,
   "tabSize": 2,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }

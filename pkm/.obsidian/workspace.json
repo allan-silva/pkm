@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "51479991c621814c",
+        "id": "2beae47bb4f4c57b",
         "type": "tabs",
         "children": [
           {
-            "id": "c14baf78c9f56e53",
+            "id": "83d3422e0ca1a86c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -65,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 387.5
   },
   "right": {
     "id": "4ab3792fa8f22b00",
@@ -85,14 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "main/Governança de Dados/1. Fleeting/2022-11-01.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -135,17 +128,17 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "2bfaa5cc754e79a8",
+  "active": "83d3422e0ca1a86c",
   "lastOpenFiles": [
-    "main/Governança de Dados/2. Literature/references.md",
-    "main/Governança de Dados/1. Fleeting/2022-11-01.md",
-    "main/Glossário.md",
+    "0. Templates/Fleeting.md",
     "main/Governança de Dados/Governança de dados - Hub.md",
-    "main/Main Hub.md",
-    "main/Governança de Dados/1. Fleeting/GD-01-11-2022.md",
-    "main/Governança de Dados/3. Permanent/empty.md",
-    "main/Governança de Dados/2. Literature/Classificação dos Tipos de dados - quanto a estrutura dos dados.md",
-    "main/Governança de Dados/2. Literature/Definição dos tipos de dados.md",
-    "main/Governança de Dados/2. Literature/Dados Informacionais.md"
+    "main/Governança de Dados/2. Literature/Qualidade de dados.md",
+    "main/Governança de Dados/1. Fleeting/2022-11-04.md",
+    "main/glossario/5W2H.md",
+    "main/glossario/BASE (Banco de dados).md",
+    "main/glossario/ACID (Banco de dados).md",
+    "main/Governança de Dados/2. Literature/8 V's do Big Data.md",
+    "main/Governança de Dados/2. Literature/references.md",
+    "main/Governança de Dados/1. Fleeting/GD-01-11-2022.md"
   ]
 }
