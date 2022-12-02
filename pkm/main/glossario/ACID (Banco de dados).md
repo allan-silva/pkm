@@ -1,3 +1,5 @@
-**GAI****GAI****GAI**Tags:
+
+Tags:
 #BD 
 #for-review
+#glossario
