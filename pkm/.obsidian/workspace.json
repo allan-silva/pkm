@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Banco de Dados/1. Fleeting/Distribuição da amostra - SQL Queries.md",
+                "file": "main/Banco de Dados/1. Fleeting/Criação de perfil de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,9 +147,10 @@
     "direction": "horizontal",
     "width": 293.5
   },
-  "active": "2bfaa5cc754e79a8",
+  "active": "809a7fb5e964fcad",
   "lastOpenFiles": [
     "main/Banco de Dados/1. Fleeting/Distribuição da amostra - SQL Queries.md",
+    "2022-12-07.md",
     "2022-11-18.md",
     "2022-11-12.md",
     "main/Banco de Dados/Banco de dados - HUB.md",
@@ -158,7 +158,6 @@
     "2022-11-23.md",
     "2022-11-22.md",
     "Databricks Delta lake.md",
-    "main/attachments/Pasted image 20221119173717.png",
-    "Governança de dados na prática.md"
+    "main/attachments/Pasted image 20221119173717.png"
   ]
 }
